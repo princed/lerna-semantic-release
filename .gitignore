@@ -10,3 +10,4 @@ test/tmp
 npm-debug.log.*
 .released-packages
 packages/**/CHANGELOG.md
+.idea/
