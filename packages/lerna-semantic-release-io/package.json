@@ -1,5 +1,5 @@
 {
-  "name": "lerna-semantic-release-io",
+  "name": "@princed/lerna-semantic-release-io",
   "author": "Joshua Nelson <jonelson@atlassian.com>, Joscha Feth <jfeth@atlassian.com>",
   "bugs": {
     "url": "https://github.com/atlassian/lerna-semantic-release/issues"
@@ -18,7 +18,7 @@
     "sinon": "~1.17.0"
   },
   "peerDependencies": {
-    "lerna": "*"
+    "@ahfarmer/lerna": "*"
   },
   "engines": {
     "node": ">=4",

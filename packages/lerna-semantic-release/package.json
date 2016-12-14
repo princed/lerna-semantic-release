@@ -1,5 +1,5 @@
 {
-  "name": "lerna-semantic-release",
+  "name": "@princed/lerna-semantic-release",
   "description": "automated semver compliant package publishing, for lerna",
   "author": "Joshua Nelson <jonelson@atlassian.com>, Joscha Feth <jfeth@atlassian.com>",
   "bin": {
@@ -17,7 +17,7 @@
     "lerna-semantic-release-pre": "^4.0.14",
     "lerna-semantic-release-post": "^5.0.13",
     "lerna-semantic-release-perform": "^4.0.13",
-    "lerna-semantic-release-io": "^5.0.13"
+    "@princed/lerna-semantic-release-io": "^5.0.13"
   },
   "peerDependencies": {
     "lerna": "*"
